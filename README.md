@@ -53,7 +53,8 @@ Based in Tunisia, we serve clients worldwide with cutting-edge digital marketing
 ### Installation
 
 1. **Clone the repository**
-git clone https://github.com/RedixDigitalSolutions/redix-furniture-portfolio.git
+git clone https://github.com/RedixDigitalSolutions/redix-furniture.git
+
 cd redix-furniture-portfolio
 
 2. **Install dependencies**
@@ -115,7 +116,7 @@ npm run deploy
 
 
 
-Your site will be live at: `https://redixdigitalsolutions.github.io/redix-furniture-portfolio/`
+Your site will be live at: `https://redixdigitalsolutions.github.io/redix-furniture/`
 
 ## 👥 Our Clients
 
