@@ -2,7 +2,7 @@ import { Mail, Phone, MapPin, Globe } from 'lucide-react';
 import { FaInstagram, FaFacebook, FaWhatsapp, FaLinkedin } from 'react-icons/fa';
 import styles from './Footer.module.css';
 
-const logo = '/redix_logo.png';
+const logo = '/redix-furniture/redix_logo.png';
 
 const Footer = () => {
     return (

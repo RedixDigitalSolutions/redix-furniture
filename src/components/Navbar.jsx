@@ -2,7 +2,7 @@ import { useState } from 'react';
 import { Menu, X } from 'lucide-react';
 import styles from './Navbar.module.css';
 
-const logo = '/redix-furniture-portfolio/redix_logo.png';
+const logo = '/redix-furniture/redix_logo.png';
 
 const Navbar = () => {
     const [isMenuOpen, setIsMenuOpen] = useState(false);
